@@ -1,0 +1,2 @@
+generate:
+	composer dump-autoload
